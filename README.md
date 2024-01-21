@@ -1,6 +1,6 @@
 # Shopping Cart
 
-Project using firebase, JavaScript DOM, HTML and CSS to create a list of items to buy while shopping! 
+Project using Firebase, JavaScript DOM, HTML and CSS to create a list of items to buy while shopping! 
 
 ### Adding Firebase database
 
