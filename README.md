@@ -2,7 +2,7 @@
 
 Project using Firebase, JavaScript DOM, HTML and CSS to create a list of items to buy while shopping! 
 
-![alt text](https://github.com/Ingridgdesigns/shopping-cart/blob/main/screenshot.png?raw=true)
+![ingridg screenshot](https://user-images.githubusercontent.com/screenshot.png)
 
 ### Adding Firebase database
 
