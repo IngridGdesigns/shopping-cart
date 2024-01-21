@@ -1,22 +1,10 @@
 import { initializeApp } from "https://www.gstatic.com/firebasejs/9.15.0/firebase-app.js"
 import { getDatabase, ref, push, onValue, remove } from "https://www.gstatic.com/firebasejs/9.15.0/firebase-database.js"
 
-function getSecretFromEnv(config) {
-    const val = process.env[config];
-    if (!val) {
-        throw new Error(`${config} is required`);
-    }
-
-    return val;
-}
-
-const db = getSecretFromEnv('SHOPPING_CART_DB');
-
-
-let d = `${"db"}`;
+const db = "https://grocery-wishlist-default-rtdb.firebaseio.com";
 
 const appSettings = {
-    databaseURL: d
+    databaseURL: db
 }
 
 const app = initializeApp(appSettings)
