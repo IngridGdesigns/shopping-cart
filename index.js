@@ -12,8 +12,11 @@ function getSecretFromEnv(config) {
 
 const db = getSecretFromEnv('SHOPPING_CART_DB');
 
+
+let d = `${"db"}`;
+
 const appSettings = {
-    databaseURL: db
+    databaseURL: d
 }
 
 const app = initializeApp(appSettings)
