@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d431eb43-9bcf-4df6-99e3-a4436ff2442e/deploy-status)](https://app.netlify.com/sites/add-2-shoppingcart/deploys)
+
 # Shopping Cart
 
 Project using Firebase, JavaScript DOM, HTML and CSS to create a list of items to buy while shopping! 
