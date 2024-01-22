@@ -16,13 +16,12 @@ Live site: https://add-2-shoppingcart.netlify.app/
 
 Get your firebase database running, go to [firebase's site](https://firebase.google.com/), sign in and add a project. In the drop down menu, head over to Build >> Realtime database. Click on that and pick the location closest to you. Pick your security mode and start populating your database with a few items. 
 
-### Adding Favicon
-
-I used [favicon](https://favicon.io/) to generate my favicon
-
 ### Artwork and Style
 
-Used coolors.co to generate [color palette](https://coolors.co/2c2871-802134-ebeaea-f9ba30-a6a4b0) from image, artwork created by [catalyststuff]("https://www.freepik.com/free-vector/cute-raccoon-eating-popcorn-cartoon-vector-icon-illustration-animal-food-icon-concept-isolated-flat_66605862.htm#query=racoon&position=0&from_view=author&uuid=d0cfa165-ae29-444c-b793-4e0ac8fa1554")
+- I used coolors.co to generate [color palette](https://coolors.co/2c2871-802134-ebeaea-f9ba30-a6a4b0) from image
+- Raccoon artwork created by [catalyststuff]("https://www.freepik.com/free-vector/cute-raccoon-eating-popcorn-cartoon-vector-icon-illustration-animal-food-icon-concept-isolated-flat_66605862.htm#query=racoon&position=0&from_view=author&uuid=d0cfa165-ae29-444c-b793-4e0ac8fa1554")
+- Generated my favicon from [favicon](https://favicon.io/)
+
 
 Quick start:
 
