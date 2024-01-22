@@ -6,7 +6,7 @@ Project using Firebase, JavaScript DOM, HTML and CSS to create a list of items t
 
 Live site: https://add-2-shoppingcart.netlify.app/
 
-![ingridg screenshot](https://github.com/IngridGdesigns/shopping-cart/blob/main/assets/screenshot.png)
+<img src=https://github.com/IngridGdesigns/shopping-cart/blob/main/assets/screenshot.png" width=50%>
 
 ### Adding Firebase database
 
