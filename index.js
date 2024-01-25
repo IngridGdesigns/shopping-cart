@@ -82,7 +82,7 @@ function appendItemToShoppingListEl(item) {
     let newEl = document.createElement("li");
      newEl.classList.add("border"); // added class to element
     
-    newEl.textContent = itemValue;
+    newEl.textContent = itemValue.toLowerCase();
     
     newEl.addEventListener("click", function() {
         let exactLocationOfItemInDB = ref(database, `shoppingList/${itemID}`);
