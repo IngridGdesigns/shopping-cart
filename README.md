@@ -2,7 +2,7 @@
 
 # Shopping Cart
 
-Project using Firebase, JavaScript DOM, HTML and CSS to create a list of items to buy while shopping, following along [Scrimba](https://scrimba.com/learn/firebase) tutorial 
+Mobile first Project using Firebase, JavaScript DOM, HTML and CSS to create a list of items to buy while shopping, following along [Scrimba](https://scrimba.com/learn/firebase) tutorial 
 
 ### Added my own two features: 
 - A count showing users how much items have been added to the cart
